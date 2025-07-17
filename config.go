@@ -17,12 +17,9 @@ import (
 
 var config string = `markdown_dir_path:
 feeds:
-  - http://hnrss.org/best 10
-  - https://waitbutwhy.com/feed
-  - http://tonsky.me/blog/atom.xml
-  - http://www.joelonsoftware.com/rss.xml
-  - https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA
-google_news_keywords: George Hotz,ChatGPT,Copenhagen
+  - https://mailnesia.com/rss/argithubvuldb
+  - https://mailnesia.com/rss/arpanewsletter
+google_news_keywords: CVE, zero day, zero-day, zeroday
 instapaper: true
 weather_latitude: 37.77
 weather_longitude: 122.41
