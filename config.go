@@ -19,7 +19,7 @@ var config string = `markdown_dir_path:
 feeds:
   - https://mailnesia.com/rss/argithubvuldb
   - https://mailnesia.com/rss/arpanewsletter
-google_news_keywords: CVE, zero day, zero-day, zeroday
+google_news_keywords: CVE, zero day, zero-day, zeroday, CVSS
 instapaper: true
 weather_latitude: 37.77
 weather_longitude: 122.41
